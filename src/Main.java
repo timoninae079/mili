@@ -6,5 +6,6 @@ public class Main {
         int priceMiles = service.calculate(price);
 
         System.out.println(priceMiles);
+
     }
 }
